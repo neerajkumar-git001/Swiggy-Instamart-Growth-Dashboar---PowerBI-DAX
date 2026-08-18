@@ -268,29 +268,38 @@ The analysis helps answer:
 
 # 🖼 Dashboard Preview
 
-![Swiggy Instamart Business Growth Dashboard]()
+![Swiggy Instamart Business Growth Dashboard](Preview/Swiggy_Instamart Growth Dashboard_Preview.png)
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-Swiggy-Instamart-Business-Growth-Analysis/
+Swiggy-Instamart-Growth-Analysis/
 │
 ├── Dashboard/
-│   └── Swiggy_Instamart_Growth_Dashboard.pbix
+│   └── Swiggy_instamart_Growth_Dashboard.pbix
 │
 ├── Dataset/
-│   └── Dataset.csv
+│   └── Dataset/Instamart_Data.xlsx
 │
-├── Screenshots/
-│   └── Dashboard-Preview.png
+├── Preview/
+│   └── Swiggy_Instamart Growth Dashboard_Preview.png
 │
+├──KPI's icon/
+|  |-Swiggy-icon.png
+|  |──Total_Sales.png
+|  |──Sales_Order.png
+|  |──Sales_Per_Record.png
+|  |──Avg_Rating.png
+|  |──Key_Insight.png
+|
+|
 ├── DAX/
-│   ├── DAX-Measures.md
+│   ├──KPI-Measures.md
 │
 ├── Documentation/
-│   └── Project-Documentation.md
+│   └──Project-Documentation.md
 │
 └── README.md
 ```
@@ -310,7 +319,7 @@ DAX was used to create business measures and analytical calculations, including:
 
 Detailed calculations are available in:
 
-**[DAX Measures](DAX/DAX-Measures.md)**
+**[DAX Measures](DAX/KPI-Measures.md)**
 
 
 ---

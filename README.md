@@ -268,7 +268,7 @@ The analysis helps answer:
 
 # 🖼 Dashboard Preview
 
-![Swiggy Instamart Business Growth Dashboard](Screenshots/Dashboard-Preview.png)
+![Swiggy Instamart Business Growth Dashboard]()
 
 ---
 
@@ -288,7 +288,6 @@ Swiggy-Instamart-Business-Growth-Analysis/
 │
 ├── DAX/
 │   ├── DAX-Measures.md
-│   └── Calendar-Measures.md
 │
 ├── Documentation/
 │   └── Project-Documentation.md
@@ -313,9 +312,6 @@ Detailed calculations are available in:
 
 **[DAX Measures](DAX/DAX-Measures.md)**
 
-Calendar-related calculations are documented in:
-
-**[Calendar Measures](DAX/Calendar-Measures.md)**
 
 ---
 

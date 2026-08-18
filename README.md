@@ -268,8 +268,7 @@ The analysis helps answer:
 
 # 🖼 Dashboard Preview
 
-![Swiggy Instamart Business Growth Dashboard](Preview/Swiggy_Instamart Growth Dashboard_Preview.png)
-
+![Swiggy Instamart Business Growth Dashboard](Preview/Swiggy_instamart_Growth_Dashboard_Preview.png)
 ---
 
 # 📂 Repository Structure

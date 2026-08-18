@@ -294,3 +294,219 @@ Swiggy-Instamart-Business-Growth-Analysis/
 │   └── Project-Documentation.md
 │
 └── README.md
+```
+
+
+
+# 🧮 DAX Analysis
+
+DAX was used to create business measures and analytical calculations, including:
+
+- Total Sales
+- Sales Records
+- Sales Per Record
+- Average Rating
+- Sales % of Total
+- Dynamic KPI Parameter
+
+Detailed calculations are available in:
+
+**[DAX Measures](DAX/DAX-Measures.md)**
+
+Calendar-related calculations are documented in:
+
+**[Calendar Measures](DAX/Calendar-Measures.md)**
+
+---
+
+# 🛠 Tools & Technologies
+
+### Microsoft Power BI
+
+Used for:
+
+- Business Intelligence
+- KPI analysis
+- Data modeling
+- Business performance analysis
+- Data visualization
+
+### Power Query
+
+Used for:
+
+- Data cleaning
+- Data transformation
+- Data preparation
+- Data type management
+
+### DAX
+
+Used for:
+
+- KPI calculations
+- Aggregation
+- Average calculations
+- Percentage-of-total analysis
+- Filter context analysis
+- Dynamic KPI selection
+
+---
+
+# 💡 Skills Demonstrated
+
+### Business Skills
+
+- Business Analysis
+- Business Intelligence
+- KPI Development
+- Revenue Analysis
+- Growth Analysis
+- Performance Analysis
+- Business Problem Solving
+- Business Insight Generation
+- Strategic Decision Support
+
+### Technical Skills
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Transformation
+- Data Visualization
+- GitHub
+
+### Analytical Skills
+
+- Revenue Driver Analysis
+- Category Analysis
+- Market Analysis
+- Trend Analysis
+- Growth Opportunity Identification
+- Performance Gap Analysis
+- Data-Driven Decision Making
+
+---
+
+# 🔗 Technical-to-Business Skill Mapping
+
+| Skill | Business Application |
+|---|---|
+| Power BI | Business performance analysis and decision support |
+| Power Query | Data preparation and transformation |
+| DAX | KPI and business metric development |
+| Data Modeling | Connecting business dimensions for analysis |
+| Category Analysis | Identifying revenue drivers |
+| City Tier Analysis | Identifying market opportunities |
+| Growth Analysis | Detecting performance trends |
+| KPI Analysis | Measuring business performance |
+| Business Analysis | Converting data into business insights |
+
+---
+
+# 📄 Dataset Information
+
+| Attribute | Details |
+|---|---|
+| Dataset | Swiggy Instamart Business Dataset |
+| Analysis Type | Business Growth Analysis |
+| Format | CSV / Excel |
+| Tools | Power BI, Power Query, DAX |
+| Purpose | Business Intelligence & Growth Analysis |
+
+> Dataset source and attribution should be provided according to the original source and applicable usage terms.
+
+---
+
+# ⚠️ Business Impact Note
+
+This project does **not** claim that the analysis directly increased revenue because the recommendations were not implemented in a live business environment.
+
+Instead, the project demonstrates the ability to identify:
+
+- Revenue drivers
+- Market opportunities
+- Performance gaps
+- Growth opportunities
+- Business risks
+- Areas requiring further investigation
+
+The **-5.84% sales change**, **29.42% contribution from the top two categories**, **~472K Tier 3 sales**, and **~787.67K Supermarket Type1 sales** are analytical findings from the dataset.
+
+These findings should be treated as **decision-support insights**, not measured real-world business outcomes.
+
+---
+
+# 📌 Project Limitations
+
+- The dataset may not represent complete real-world Swiggy Instamart operations.
+- The analysis identifies patterns but does not establish causation.
+- Business recommendations have not been tested in a live environment.
+- Actual financial impact cannot be measured without implementation data.
+- Further store-level and customer-level analysis would be required for deeper strategic decisions.
+
+---
+
+# 🔮 Future Analysis
+
+The project can be extended with:
+
+- Store-level performance analysis
+- Customer segmentation
+- Customer retention analysis
+- Profitability analysis
+- Inventory and stockout analysis
+- Promotion effectiveness analysis
+- Sales forecasting
+- Market expansion analysis
+- Category growth forecasting
+
+These extensions would move the project from descriptive analytics toward predictive and prescriptive business analytics.
+
+---
+
+# 📥 Download Power BI Dashboard
+
+**[Download Swiggy Instamart Growth Dashboard](Dashboard/Swiggy_Instamart_Growth_Dashboard.pbix)**
+
+---
+
+# 📚 Documentation
+
+Detailed business analysis, findings, growth opportunities, recommendations, limitations, and analytical methodology:
+
+**[View Project Documentation](Documentation/Project-Documentation.md)**
+
+---
+
+# 🤝 Feedback
+
+Constructive feedback is welcome.
+
+If you have suggestions for:
+
+- Additional business KPIs
+- New analytical dimensions
+- Additional growth opportunities
+- Improved business insights
+- DAX improvements
+- Documentation improvements
+
+Feel free to open an Issue or share your feedback.
+
+---
+
+# 👤 Connect With Me
+
+**GitHub:**  
+[https://github.com/neerajkumar-git001](https://github.com/neerajkumar-git001)
+
+**LinkedIn:**  
+[https://www.linkedin.com/in/neerajkumarsahu-data/](https://www.linkedin.com/in/neerajkumarsahu-data/)
+
+---
+
+# 📌 About
+
+Business-focused Power BI project analyzing Swiggy Instamart performance to identify revenue drivers, market opportunities, performance gaps, and potential business growth opportunities using **Power BI, Power Query, and DAX**.

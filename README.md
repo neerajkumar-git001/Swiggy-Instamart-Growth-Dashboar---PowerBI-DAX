@@ -415,9 +415,14 @@ Used for:
 |---|---|
 | Dataset | Swiggy Instamart Business Dataset |
 | Analysis Type | Business Growth Analysis |
-| Format | CSV / Excel |
+| Format | Excel |
 | Tools | Power BI, Power Query, DAX |
 | Purpose | Business Intelligence & Growth Analysis |
+
+
+### Dataset Source
+
+**[View / Download Dataset](Dataset/Instamart_Data.xlsx)**
 
 > Dataset source and attribution should be provided according to the original source and applicable usage terms.
 
